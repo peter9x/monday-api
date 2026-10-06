@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://packagist.org/packages/peter9x/laravel-provet-api"><img src="https://img.shields.io/packagist/v/peter9x/monday-api?style=for-the-badge" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/peter9x/laravel-provet-api"><img src="https://img.shields.io/packagist/l/peter9x/monday-api?style=for-the-badge" alt="License"></a>
+</p>
+
 # Monday API
 Monday.com API
 
